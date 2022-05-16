@@ -4,4 +4,4 @@
   <a href="https://discord.com/users/860358783141806081" title="Discord Account"><img src="https://lanyard-profile-readme.vercel.app/api/860358783141806081"></a>
 </div>
 
-<h3 align="center">![](https://komarev.com/ghpvc/?username=tecavuzcu&style=flat-square)</h3>
+<h3 align="center">![hi](https://komarev.com/ghpvc/?username=tecavuzcu&style=flat-square)</h3>
